@@ -24,7 +24,9 @@
       "currency_code": "USD",
       "status": "selling",
       "status_details": "",
-      "images": ["url1"]
+      "images": [
+        "https://raw.githubusercontent.com/webAnatoly/my_json_api/main/img/0aac165474911d5d44bf154381a23c80.jpeg"
+      ]
     },
     {
       "id": 3,
@@ -36,7 +38,9 @@
       "currency_code": "USD",
       "status": "selling",
       "status_details": "",
-      "images": ["url1"]
+      "images": [
+        "https://raw.githubusercontent.com/webAnatoly/my_json_api/main/img/ab91452b4e8213fca3280a88a317496c.jpeg"
+      ]
     },
     {
       "id": 4,
