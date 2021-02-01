@@ -10,7 +10,9 @@
       "currency_code": "USD",
       "status": "selling",
       "status_details": "",
-      "images": ["url1"]
+      "images": [
+        "https://raw.githubusercontent.com/webAnatoly/my_json_api/main/img/db0eab48a6f2d11e9078fbb3d371082c.jpeg"
+      ]
     },
     {
       "id": 2,
