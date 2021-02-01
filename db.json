@@ -52,7 +52,9 @@
       "currency_code": "USD",
       "status": "sold",
       "status_details": "Продана на аукционе",
-      "images": ["url1"]
+      "images": [
+        "https://raw.githubusercontent.com/webAnatoly/my_json_api/main/img/1e889515a6516c3d8f8657bce639a5ec.jpeg"
+      ]
     }
   ],
   "comments": [
